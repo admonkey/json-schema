@@ -51,3 +51,4 @@ if ($validator->isValid()) {
 ## Running the tests
 
     $ vendor/bin/phpunit
+testing build
